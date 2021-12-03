@@ -2,26 +2,26 @@
 
 This program is for enthusiasts who want to contribute to our list of Data Science / Machine Learning tutorials, deep-dives, and reviews and make other Data Engineers’ and scientists’ life easier by helping them learn through hands-on examples. We're looking for writers who are tech-savvy. 
 
-##How does it work?
+## How does it work?
 
 ### Step 1 - Join the Blogger Program
 Join the program by filling this form 
 
 ### Step 2- Join our Discord server. 
-We have a dedicated Discord server for the Blogger program for news & updates and to introduce yourselves.
+We have a dedicated [Discord server](https://discord.gg/KcJgEfxnQk) for the Blogger program for news & updates and to introduce yourselves.
 
 ### Step 3 - Propose a topic and an outline. 
 Pitch your article/tutorial idea to us or select an existing issue in our community content GitHub repository.
-1. Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. Submit your own article proposal
-2. You can also browse and select any existing topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. Write about topics / tutorials requested by the ML community. 
+1. Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. [Submit your own article proposal](https://github.com/kili-technology/kili-blogger-program/issues/new?assignees=&labels=&template=submit-an-article-proposal.md&title=%5BArticle+Proposal%5D+)
+2. You can also browse and select any existing topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. [Write about topics / tutorials requested by the ML community.](https://github.com/kili-technology/kili-blogger-program/projects/1) 
 
 ### Step 4 - Get assigned to an article
 Once you submit your proposal, our team will review, approve your request and assign you the article in Github.
 
 ### Step 5 - Write the article
-Go over our FAQ section on this page to learn more about the writing and submission process.
+Go over our FAQ section below to learn more about the writing and submission process.
 
-### Step 6 - Get paid
+### Step 6 - Get paid 
 Once your article is reviewed and published on our blog, you can submit your invoice to get paid. 
 To issue and submit your invoice, please check the FAQ section on this page.
 
@@ -68,5 +68,5 @@ There is no limit, but not every submitted article will be published.
 Kili claims the blog post piece as our own after it is published and you have been compensated. You can however, after a month, publish as long as you have a canonical link pointing to the Kili post.
 
 #### How can we contact you?
-If you have any questions, please join our Slack Channel and send a mail at theo.dullin@kili-technology.com 
+If you have any questions, please join our [Discord server](https://discord.gg/KcJgEfxnQk) and send a mail at <theo.dullin@kili-technology.com>
 
