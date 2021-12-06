@@ -35,11 +35,11 @@ After the approval of your submitted topic and outline, you can start writing yo
 
 #### How much do I get paid?
 You get paid for articles published to the Kili Blog. And the article will be published under your name along with a profile picture.
-We follow this criteria to compensate our writers
-Articles (< 1000 words —> $100)
-Articles (> 1000 words —> $150 )
-Tutorials (< 1300 words —> $120)
-Tutorials ( > 1300 words —> $200)
+We follow this criteria to compensate our writers :
+- Articles (< 1000 words —> $100)
+- Articles (> 1000 words —> $150 )
+- Tutorials (< 1300 words —> $120)
+- Tutorials ( > 1300 words —> $200)
 
 #### My blog post is published, How do I submit an invoice?
 Once your blog post is published on our blog, please follow the below guidelines to submit your invoice:
