@@ -43,11 +43,11 @@ We follow this criteria to compensate our writers :
 
 #### My blog post is published, How do I submit an invoice?
 Once your blog post is published on our blog, please follow the below guidelines to submit your invoice:
-The invoice should use this template and must include the URL of your blog post.
+The invoice should use [this template](https://docs.google.com/document/d/1WGiQghWIob_8oT2xBZStYQldAtEWIbAK17i45dk66PU/edit#heading=h.djsw662b5spe) and must include the URL of your blog post.
 Invoice sent should be in PDF format.
-Invoice file name should follow this format "firstname lastname month blog post title".
-Payments are issued every Tuesday and require 10 working days. Your bank account should be able to cash in USD.
-Submit your invoice by filling the following form
+Invoice file name should follow this format "firstname_lastname_month_blog-post-title".
+Your bank account should be able to cash in Euros.
+Submit your invoice by filling the following [form](https://docs.google.com/forms/d/1nRI0iR1Zr7nxW1uZxxfkD00NS8SR_arsYaPWqs1koXk/edit)
 
 #### Can I write in languages other than English?
 Unfortunately, content published on our blog is currently in English only.
