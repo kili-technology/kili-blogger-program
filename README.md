@@ -5,7 +5,7 @@ This program is for enthusiasts who want to contribute to our list of Data Scien
 ## How does it work?
 
 ### Step 1 - Join the Blogger Program
-Join the program by filling this form 
+Join the program by filling [this form](https://share.hsforms.com/1PkSi5rNcSsalwQ13LzhMVg564ac) 
 
 ### Step 2- Join our Discord server. 
 We have a dedicated [Discord server](https://discord.gg/KcJgEfxnQk) for the Blogger program for news & updates and to introduce yourselves.
