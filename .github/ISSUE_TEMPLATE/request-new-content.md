@@ -10,8 +10,8 @@ assignees: ''
 ### My Request
 <!--Please explain clearly what article would you like to see.-->
 
-### Community vote
+### Interactions
 👍 Upvote if you like this topic
-🚀 If you can make the article/video!
+Comment if you can write this content
 
 Thank you.

@@ -17,7 +17,6 @@ assignees: ''
 ### My content is
 
 - [ ] A Kili Tutorial / Guide / How to article
-- [ ] About Ai, Data-centric AI, Annotation, Machine Learning
-- [ ] Other, specify
+- [ ] An Article
 
 <!--Thank you for submitting your article proposal.-->
