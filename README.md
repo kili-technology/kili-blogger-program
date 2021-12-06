@@ -27,7 +27,7 @@ To issue and submit your invoice, please check the FAQ section on this page.
 # Frequently Asked Questions
 
 #### Before I start writing, are there any writing guidelines that I should follow?
-Yes, you must follow these article guidelines. Articles that do not follow our guidelines will not be published in Kili.
+Yes, you must follow these [writing guidelines](https://github.com/kili-technology/kili-blogger-program/blob/main/writing-guidelines.md). Articles that do not follow our guidelines will not be published in Kili.
 
 
 #### Where do I share my article?
