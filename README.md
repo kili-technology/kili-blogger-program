@@ -1,6 +1,6 @@
 # Kili Blogger program
 
-This program is for enthusiasts who want to contribute to our list of Data Science / Machine Learning tutorials, deep-dives, and reviews and make other Data Engineers’ and scientists’ life easier by helping them learn through hands-on examples. We're looking for writers who are tech-savvy. 
+This program is for enthusiasts who want to contribute to our list of Data Science / Machine Learning tutorials, deep-dives, and make other Data Engineers’ and scientists’ life easier by helping them learn through hands-on examples. We're looking for writers who are tech-savy. 
 
 ## How does it work?
 
