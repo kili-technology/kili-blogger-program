@@ -6,7 +6,7 @@
 
 When you write an article or a tutorial, make sure to follow the steps below :
 
-- [ ] I download the article template (It contains information to fill in when submitting your article.)
+- [ ] I download the [article template](https://docs.google.com/document/d/1WGiQghWIob_8oT2xBZStYQldAtEWIbAK17i45dk66PU/edit#heading=h.djsw662b5spe) (It contains information to fill in when submitting your article.)
 - [ ] I write the content of my article
 - [ ] I review the SEO of my article. (See the SEO section below)
 - [ ] I Proofread my content for errors in grammar, spelling, and typography. (See Proofreading section below)
@@ -70,7 +70,6 @@ Make sure to follow the following structure for your article or for your tutoria
 ### Linking
 
 - Link at least one blog post published on our blog
-- Link high ranking external websites and add a rell=nofollow
 - Use as many contextual links as possible.
 - When adding links, please include the link on a keyword. Don't use "click here" nor "there" nor "link"
 
