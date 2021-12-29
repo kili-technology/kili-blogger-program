@@ -16,7 +16,7 @@ Pitch your article/tutorial idea to us or select an existing issue in our commun
 Once you submit your proposal, our team will review, approve your request and assign you the article in Github.
 
 ### Step 4 - Write the article
-Go over our FAQ section below to learn more about the writing and submission process.
+Go over our FAQ section below to learn more about the writing and submission process. Before to write your article, please read the [writing guidelines](https://github.com/kili-technology/kili-blogger-program/blob/main/writing-guidelines.md)
 
 ### Step 5 - Get paid 
 Once your article is reviewed and published on our blog, you can submit your invoice to get paid. 
