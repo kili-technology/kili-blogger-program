@@ -12,6 +12,11 @@ assignees: ''
 
 ### Interactions
 👍 Upvote if you like this topic
-Comment if you can write this content
+⬇️ Comment if you can write this content
+
+### The content is
+
+- [ ] A Kili Tutorial / Guide / How to article
+- [ ] An Article
 
 Thank you.
