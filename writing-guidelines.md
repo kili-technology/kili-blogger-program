@@ -19,9 +19,10 @@ When you write an article or a tutorial, make sure to follow the steps below :
 
 While writing your article or tutorial, make sure that you follow the following spirit:
 
-- content should be state-of-the-art
+- Content should be state-of-the-art
 - Content should be comprehensive by anyone
-- Tutorials should be easily reproducible: with clear code and steps well defined. If you get rif of the text and only keep code, it should allow to reproduce your code end-to-end (like a jupyter notebook)
+- Content target professionals and should be illustrated by business examples
+- Tutorials should be easily reproducible: with clear code and steps well defined. If you get rif of the text and only keep code, it should allow to reproduce your code end-to-end (like a jupyter notebook). They should use Kili technology whenever it is possible.
 
 ## Structure
 
