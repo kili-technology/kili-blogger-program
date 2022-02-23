@@ -37,8 +37,8 @@ Make sure to follow the following structure for your article or for your tutoria
 - Step 1 - First thing to do
 - Step 2 - Second thing...
 - Step n - Last thing to do
-- Include code source (Github)
-  Conclusion
+- Include code source (Github
+- Conclusion
 
 ### Structure for Articles
 
