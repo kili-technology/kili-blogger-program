@@ -56,7 +56,7 @@ Unfortunately, content published on our blog is currently in English only.
 No, we only publish original content to our blog. Submitted content must pass a plagiarism checker.
 
 #### What type of content can I submit?
-You can submit your own content ideas or select an issue raised by our community to write about. You can submit either technical or non technical content, covering the following topics: Training data, Deep Learning, Machine Learning, Model Centric to Data Centric, open source, and Kili tutorials, guides, and How-tos.
+You can submit your own content ideas or select an issue raised by our community to write about. You can submit either technical or non technical content, covering the following topics: Training data, Deep Learning, Machine Learning, Model Centric to Data Centric, open source, and Kili tutorials, guides, and How-tos. Please note that Kili only publishes original content. Therefore, plagiarism detection will always be performed prior to the validation of your piece.
 
 #### How many articles can I submit each month?
 There is no limit, but not every submitted article will be published.
